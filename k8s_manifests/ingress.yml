@@ -22,4 +22,4 @@ spec:
           service:
             name: ghworkshop
             port:
-              number: 8090
+              number: 8091
