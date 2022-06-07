@@ -16,4 +16,4 @@ spec:
         - name: "board-api"
           image: "testgitops.azurecr.io/board-api-jimin"
           ports:
-          - containerPort: 80
+          - containerPort: 8090
