@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: "board-api"
-          image: "testgitops.azurecr.io/board-api-jimin"
+          image: "testgitops.azurecr.io/board-api-jimin:latest"
           ports:
-          - containerPort: 3306
+          - containerPort: 8090
